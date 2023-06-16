@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html>
+<body>
+<h1>PHP Декремент оператор после</h1>
+
+<?php
+$x = 10;  
+echo $x--;
+?>  
+
+</body>
+</html>
